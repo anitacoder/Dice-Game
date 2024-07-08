@@ -1,0 +1,25 @@
+.game-box{
+    background-color: aqua;
+    height: 80vh;
+    width: 50%;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+    font-weight: bold;
+    padding: 25px 70px;
+    border: none;
+    border-radius: 35px;
+    font-size: 24px;
+    background-color: yellow;
+}
+.one{
+    display: flex;
+    position: relative;
+    top: 70px;
+    gap: 65px;
+}
